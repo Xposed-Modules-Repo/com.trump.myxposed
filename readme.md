@@ -1,6 +1,6 @@
 # MyXposed
 
-个人自用的Xposed模块  [https://github.com/wangyuan0217/MyXposed/blob/main/README.md](https://github.com/wangyuan0217/MyXposed/blob/main/README.md)
+个人自用的Xposed模块  [https://github.com/wangyuan0217/MyXposed](https://github.com/wangyuan0217/MyXposed)
 
 ## 微博轻享版
 
